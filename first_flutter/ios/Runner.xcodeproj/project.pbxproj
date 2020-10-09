@@ -12,7 +12,6 @@
 		3E5361E7252F6AB7002AEA0A /* FlutterIosImageViewFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E5361E6252F6AB7002AEA0A /* FlutterIosImageViewFactory.m */; };
 		3E5361EA252F6B4F002AEA0A /* FlutterImageViewPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E5361E9252F6B4F002AEA0A /* FlutterImageViewPlugin.m */; };
 		3E5361ED252F6BE6002AEA0A /* FlutterIosImageViewRegistran.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E5361EC252F6BE6002AEA0A /* FlutterIosImageViewRegistran.m */; };
-		3EA6D7C62530615D00877FA5 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA6D7C52530615D00877FA5 /* GeneratedPluginRegistrant.m */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
@@ -42,8 +41,6 @@
 		3E5361E9252F6B4F002AEA0A /* FlutterImageViewPlugin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlutterImageViewPlugin.m; sourceTree = "<group>"; };
 		3E5361EB252F6BE6002AEA0A /* FlutterIosImageViewRegistran.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlutterIosImageViewRegistran.h; sourceTree = "<group>"; };
 		3E5361EC252F6BE6002AEA0A /* FlutterIosImageViewRegistran.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlutterIosImageViewRegistran.m; sourceTree = "<group>"; };
-		3EA6D7C42530615C00877FA5 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
-		3EA6D7C52530615D00877FA5 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
@@ -98,8 +95,6 @@
 		97C146F01CF9000F007C117D /* Runner */ = {
 			isa = PBXGroup;
 			children = (
-				3EA6D7C42530615C00877FA5 /* GeneratedPluginRegistrant.h */,
-				3EA6D7C52530615D00877FA5 /* GeneratedPluginRegistrant.m */,
 				97C146FA1CF9000F007C117D /* Main.storyboard */,
 				97C146FD1CF9000F007C117D /* Assets.xcassets */,
 				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
@@ -237,7 +232,6 @@
 				3E5361E7252F6AB7002AEA0A /* FlutterIosImageViewFactory.m in Sources */,
 				3E5361ED252F6BE6002AEA0A /* FlutterIosImageViewRegistran.m in Sources */,
 				3E5361EA252F6B4F002AEA0A /* FlutterImageViewPlugin.m in Sources */,
-				3EA6D7C62530615D00877FA5 /* GeneratedPluginRegistrant.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
